@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPILabTaskNumberOfAirDucts.dll"</Assembly>
+		<AddInId>F0A69F39-F1A2-4B49-9150-C642740877E2</AddInId>
+		<FullClassName>RevitAPILabTaskNumberOfAirDucts.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Приложение для AirDucts</Text>
+	</AddIn>
+</RevitAddIns>
